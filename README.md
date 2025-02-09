@@ -1,9 +1,10 @@
+<p align="center">
+  <img src="./img/Cypress_Logotype_Dark-Color.svg" height="100" alt="Cypress Logo"/>
+  <img src="./img/ts-logo-256.svg" height="100" alt="TypeScript Logo"/>
+</p>
+
 # Cypress TypeScript Automation: SauceDemo.com
 
-<p style="display: flex; align-items: center; justify-content: center; gap: 50px;">
-    <img src="./img/Cypress_Logotype_Dark-Color.svg" height="50" alt="Cypress Logo"/>
-    <img src="./img/ts-logo-256.svg" height="50" alt="TypeScript Logo"/>
-</p>
 &#x20;
 
 ## 📌 Repository Purpose
