@@ -1,8 +1,8 @@
-# Cypress TypeScript Automation - SauceDemo.com
+# Cypress TypeScript Automation: SauceDemo.com
 
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="./img/Cypress_Logotype_Dark-Color.svg" height="150" alt="Cypress Logo"/>
-    <img src="./img/ts-logo-256.svg" height="150" alt="TypeScript Logo"/>
+<div style="display: flex; align-items: center; justify-content: center; gap: 50px;">
+    <img src="./img/Cypress_Logotype_Dark-Color.svg" height="50" alt="Cypress Logo"/>
+    <img src="./img/ts-logo-256.svg" height="50" alt="TypeScript Logo"/>
 </div>
 &#x20;
 
@@ -66,7 +66,7 @@ npx cypress run
 
 Currently, this repository includes tests for the **Login Page** in SauceDemo:
 
-- \`\` - Tests login page UI elements, validation errors, invalid login attempts, and successful login.
+- `loginPage.cy.ts` - Tests login page UI elements, validation errors, invalid login attempts, and successful login.
 
 ### 🚀 **Future Test Coverage**
 
