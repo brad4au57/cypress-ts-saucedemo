@@ -1,7 +1,11 @@
 <p align="center">
-    <img src="https://github.com/brad4au57/cypress-ts-saucedemo/blob/main/img/Cypress_Logotype_Dark-Color.svg?raw=true" height="50" alt="Cypress Logo"/>
-    <span style="font-size: 50px">+</span>
-    <img src="https://github.com/brad4au57/cypress-ts-saucedemo/blob/main/img/ts-logo-256.svg?raw=true" height="50" alt="TypeScript Logo"/>
+    <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" height="50" alt="Cypress Logo"/>
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="50" alt="TypeScript Logo"/>
 </p>
 
 # Cypress TypeScript Automation: SauceDemo.com
