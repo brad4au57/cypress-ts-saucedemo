@@ -1,11 +1,11 @@
 <p align="center">
-    <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" height="50" alt="Cypress Logo"/>
+    <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" height="100" alt="Cypress Logo"/>
     &nbsp;
     &nbsp;
     &nbsp;
     &nbsp;
     &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="50" alt="TypeScript Logo"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="100" alt="TypeScript Logo"/>
 </p>
 
 # Cypress TypeScript Automation: SauceDemo.com
