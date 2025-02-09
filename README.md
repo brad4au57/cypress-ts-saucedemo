@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/Cypress_Logotype_Dark-Color.svg" height="100" alt="Cypress Logo"/>
+  <img src="./img/Cypress_Logotype_Dark-Color.svg" height="100" alt="Cypress Logo" style="margin-right: 50px;"/>
   <img src="./img/ts-logo-256.svg" height="100" alt="TypeScript Logo"/>
 </p>
 
