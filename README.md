@@ -1,5 +1,6 @@
-<div style="display: flex; align-items: center; justify-content: center; gap: 50px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 25px;">
     <img src="./img/Cypress_Logotype_Dark-Color.svg" height="50" alt="Cypress Logo"/>
+    <span style="font-size: 50px">+</span>
     <img src="./img/ts-logo-256.svg" height="50" alt="TypeScript Logo"/>
 </div>
 
