@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="./img/Cypress_Logotype_Dark-Color.svg?raw=true" height="100" alt="Cypress Logo" style="margin-right: 20px;">
-  <img src="./img/ts-logo-256.svg?raw=true" height="100" alt="TypeScript Logo">
-</p>
+  <img src="./img/Cypress_Logotype_Dark-Color.svg?raw=true" height="100" alt="Cypress Logo" style="display: inline-block; margin-right: 50px;">
+  <img src="./img/ts-logo-256.svg?raw=true" height="100" alt="TypeScript Logo" style="display: inline-block;">
 
 # Cypress TypeScript Automation: SauceDemo.com
 
