@@ -4,7 +4,7 @@ describe('SauceDemo Footer Tests', () => {
   });
 
   afterEach(() => {
-    // cy.logoutOfSauceDemo();
+    cy.logoutOfSauceDemo();
   });
 
   it('Verify footer elements are visible on the inventory page', () => {

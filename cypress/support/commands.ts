@@ -33,7 +33,8 @@ Cypress.Commands.add('logoutOfSauceDemo', () => {
   // Click the logout link
   cy.get('#logout_sidebar_link').click();
   // Verify user is redirected to login page
-  cy.url().should('contain', `/index.html`);
+  cy.url().should('contain', `www.saucedemo.com`);
+  cy.contains('div.login_logo', 'Swag Labs').should('be.visible');
 
   log.end();
 });
